@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventEngineDemo", "EventEngineDemo\EventEngineDemo.csproj", "{AF770486-0641-448F-9491-ED0811A761AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF770486-0641-448F-9491-ED0811A761AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF770486-0641-448F-9491-ED0811A761AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF770486-0641-448F-9491-ED0811A761AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF770486-0641-448F-9491-ED0811A761AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
